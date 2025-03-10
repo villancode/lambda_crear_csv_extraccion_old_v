@@ -1,0 +1,7 @@
+boto3
+pandas
+numpy
+mysql-connector-python==8.0.21
+mgzip
+requests
+wget
